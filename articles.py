@@ -37,7 +37,7 @@ def get_articles_update(filename, clean=True):
     results_list = []
     request_headers = {"Accept": "application/json"}
     
-    with open(f'{FOLDER_PATH}/src/begin_date.txt', 'r') as read_begin_date:
+    with open(f'{FOLDER_PATH}/src/begin_date.txt', 'r', encoding='utf8') as read_begin_date:
         begin_date = read_begin_date.read()
         
     begin_dt = datetime.datetime.strptime(read_begin_date, '%Y%m%d')
@@ -49,7 +49,7 @@ def get_articles_update(filename, clean=True):
         url = f"https://api.nytimes.com/svc/search/v2/articlesearch.json?begin_date={begin_date}&end_date={end_date}&fq=headline%3A(%22covid%22%20%22coronavirus%22)&page={i}&sort=oldest&api-key={KEY}"
         
         try:
-            response = requests.get(url, headers=request_headers).json()
+            response = requests.get(url, headers=request_headers, timeout=30).json()
             response_list = response['response']['docs']
             
             for j in response_list:
@@ -63,7 +63,7 @@ def get_articles_update(filename, clean=True):
     new_begin_dt = begin_dt + datetime.timedelta(days=8)
     new_begin_date = new_begin_dt.strftime('%Y%m%d')
     
-    with open(f'{FOLDER_PATH}/src/begin_date.txt', 'w') as outfile:
+    with open(f'{FOLDER_PATH}/src/begin_date.txt', 'w', encoding='utf8') as outfile:
         outfile.write(new_begin_date)
             
     if clean:
@@ -71,13 +71,13 @@ def get_articles_update(filename, clean=True):
         for i in lst_clean:
             i.pop('multimedia', None)
 
-        with open(f"{FOLDER_PATH}/src/{filename}", 'w') as outfile:
+        with open(f"{FOLDER_PATH}/src/{filename}", 'w', encoding='utf8') as outfile:
             json.dump(lst_clean, outfile, indent=4)
 
         return lst_clean
     
     else:
-        with open(f"{FOLDER_PATH}/src/{filename}", 'w') as outfile:
+        with open(f"{FOLDER_PATH}/src/{filename}", 'w', encoding='utf8') as outfile:
             json.dump(results_list, outfile, indent=4)
         
         return results_list
