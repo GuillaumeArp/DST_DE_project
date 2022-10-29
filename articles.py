@@ -91,4 +91,7 @@ def upload_articles_to_mongo(articles):
         None
     """
     articles = get_articles_update(f'{FOLDER_PATH}/articles_update.json')
-    col.insert_many(articles)
+    
+    if len(articles) > 0:
+        col.insert_many(articles)
+        print(f"Successfully uploaded {len(articles)} articles to MongoDB.")
