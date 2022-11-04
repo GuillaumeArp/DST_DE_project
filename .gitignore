@@ -135,3 +135,4 @@ src/articles_2021.json
 src/articles_2020.json
 src/articles_full_clean.json
 .DS_Store
+.vscode/settings.json
