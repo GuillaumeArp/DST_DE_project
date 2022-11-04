@@ -47,10 +47,10 @@ try:
     df_counties_plus.to_sql('covid_counties', engine, if_exists='append', index=False)
     df_states_plus.to_sql('covid_states', engine, if_exists='append', index=False)
     end = datetime.now().strftime('%d/%m/%Y - %H:%M:%S')
-    print(f'{end} - Data updated')
+    print(f'{end} - Data updated\n')
 
 except:
     end = datetime.now().strftime('%d/%m/%Y - %H:%M:%S')
-    print(f'{end} - A problem occured while updating data')
+    print(f'{end} - A problem occured while updating data\n')
 
 # prédictions des futures donneés avec des séries temporelles
