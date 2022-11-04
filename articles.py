@@ -93,7 +93,7 @@ def upload_articles_to_mongo():
     """
     start = datetime.datetime.now().strftime('%d/%m/%Y - %H:%M:%S')
     print(f'{start} - Fetching articles...')
-    articles = get_articles_update(f'articles_update.json')
+    articles = get_articles_update('articles_update.json')
     end = datetime.datetime.now().strftime('%d/%m/%Y - %H:%M:%S')
 
     if len(articles) > 0:
