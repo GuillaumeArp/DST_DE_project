@@ -33,7 +33,8 @@ df_us.to_sql('covid_us',engine, if_exists='replace', index=False)
 df_counties.to_sql('covid_counties', engine, if_exists='replace', index=False)
 df_states.to_sql('covid_states', engine, if_exists='replace', index=False)
 
-print(datetime.now(), "Création des tables OK")
+end = datetime.now().strftime('%d/%m/%Y - %H:%M:%S')
+print(f"{end} - Création des tables OK")
 '''
 
 
