@@ -93,13 +93,13 @@ def upload_articles_to_mongo():
     """
     start = datetime.datetime.now().strftime('%d/%m/%Y - %H:%M:%S')
     print(f'{start} - Fetching articles...')
-    articles = get_articles_update(f'{FOLDER_PATH}/src/articles_update.json')
+    articles = get_articles_update(f'articles_update.json')
     end = datetime.datetime.now().strftime('%d/%m/%Y - %H:%M:%S')
 
     if len(articles) > 0:
-        # col.insert_many(articles)
-        print(f"{end} - Successfully uploaded {len(articles)} articles to MongoDB.")
+        col.insert_many(articles)
+        print(f"{end} - Successfully uploaded {len(articles)} articles to MongoDB.\n")
     else:
-        print(f"{end} - No article to upload.")
+        print(f"{end} - No article to upload.\n")
 
 upload_articles_to_mongo()

@@ -1,105 +1,12 @@
 [
     {
-        "abstract": "Projects all over the country include renovations and new wings as institutions continue to bet on bricks and mortar.",
-        "web_url": "https://www.nytimes.com/2022/10/20/arts/design/museums-expanding-again.html",
-        "snippet": "Projects all over the country include renovations and new wings as institutions continue to bet on bricks and mortar.",
-        "lead_paragraph": "The Portland Museum of Art in Maine is planning a $85 million expansion that will double the size of its campus. The American Museum of Natural History in New York is constructing a new $431 million Richard Gilder Center for Science, Education and Innovation. The $10 million Bob Dylan Center opened in May in Tulsa, Okla.",
-        "print_section": "F",
-        "print_page": "2",
+        "abstract": "Jeffrey S. McConney, the company\u2019s controller, had coughing fits on the stand. The judge said the trial would likely resume Monday, but that many in the courtroom were at risk.",
+        "web_url": "https://www.nytimes.com/2022/11/01/nyregion/trump-organization-trial-mcconney-covid.html",
+        "snippet": "Jeffrey S. McConney, the company\u2019s controller, had coughing fits on the stand. The judge said the trial would likely resume Monday, but that many in the courtroom were at risk.",
+        "lead_paragraph": "Jeffrey S. McConney, the controller of Donald J. Trump\u2019s family business and the first witness in the trial of the company, tested positive for Covid-19 on Tuesday, delaying the long-awaited proceeding and driving home the difficulties of holding trials at a time when the disease remains prevalent.",
         "source": "The New York Times",
         "headline": {
-            "main": "After a Covid Contraction, Museums Are Expanding Again",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Betting on Bigger",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Museums",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Bob Dylan Center (Tulsa, Okla)",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Gilder, Richard, Center for Science, Education and Innovation",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "AMERICAN MUSEUM OF NATURAL HISTORY",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Art",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Building (Construction)",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Culture (Arts)",
-                "rank": 8,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-10-20T09:00:34+0000",
-        "document_type": "article",
-        "news_desk": "SpecialSections",
-        "section_name": "Arts",
-        "subsection_name": "Art & Design",
-        "byline": {
-            "original": "By Robin Pogrebin",
-            "person": [
-                {
-                    "firstname": "Robin",
-                    "middlename": null,
-                    "lastname": "Pogrebin",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/380e4a7c-9c28-514d-a6a7-ff0c18b62fd9",
-        "word_count": 933,
-        "uri": "nyt://article/380e4a7c-9c28-514d-a6a7-ff0c18b62fd9"
-    },
-    {
-        "abstract": "The pandemic has been a time of great loss \u2014 and a time of great reflection. Perhaps no one understands that more than Rachel McKibbens.",
-        "web_url": "https://www.nytimes.com/interactive/2022/10/21/podcasts/we-were-three-covid-podcast.html",
-        "snippet": "The pandemic has been a time of great loss \u2014 and a time of great reflection. Perhaps no one understands that more than Rachel McKibbens.",
-        "lead_paragraph": "The pandemic has been a time of great loss \u2014 and a time of great reflection. Perhaps no one understands that more than Rachel McKibbens.",
-        "source": "The New York Times",
-        "headline": {
-            "main": "What Covid Revealed, and Destroyed ",
+            "main": "Key Witness Has Covid, Disrupting Trump Organization Trial After One Day",
             "kicker": null,
             "content_kicker": null,
             "print_headline": null,
@@ -115,183 +22,41 @@
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "Vaccination and Immunization",
+                "name": "persons",
+                "value": "Merchan, Juan M",
                 "rank": 2,
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "Grief (Emotion)",
+                "name": "glocations",
+                "value": "Manhattan (NYC)",
                 "rank": 3,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Podcasts",
+                "value": "Criminal Justice",
                 "rank": 4,
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "Hospitals",
+                "name": "organizations",
+                "value": "Trump Organization",
                 "rank": 5,
                 "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "Santa Ana (Calif)",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "California",
-                "rank": 7,
-                "major": "N"
             }
         ],
-        "pub_date": "2022-10-21T15:07:38+0000",
-        "document_type": "multimedia",
-        "news_desk": "Podcasts",
-        "section_name": "Podcasts",
-        "byline": {
-            "original": "By The Serial Team",
-            "person": [],
-            "organization": "The Serial Team"
-        },
-        "type_of_material": "Interactive Feature",
-        "_id": "nyt://interactive/f05e9c30-555e-5c89-934f-82c7604d9fbc",
-        "word_count": 0,
-        "uri": "nyt://interactive/f05e9c30-555e-5c89-934f-82c7604d9fbc"
-    },
-    {
-        "abstract": "Tell us how you have  evaded the virus.",
-        "web_url": "https://www.nytimes.com/2022/10/21/nyregion/have-you-never-had-covid.html",
-        "snippet": "Tell us how you have  evaded the virus.",
-        "lead_paragraph": "It has been nearly 1,000 days since the World Health Organization declared the coronavirus outbreak a pandemic. Nearly 630 million cases have been reported across the world, although the actual case count is likely much higher.",
-        "source": "The New York Times",
-        "headline": {
-            "main": "Have You Never Had Covid?",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": null,
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "internal-open-access",
-                "rank": 2,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-10-21T17:59:59+0000",
+        "pub_date": "2022-11-01T19:10:47+0000",
         "document_type": "article",
-        "news_desk": "NYTNow",
+        "news_desk": "Metro",
         "section_name": "New York",
         "byline": {
-            "original": "By The New York Times",
-            "person": [],
-            "organization": "The New York Times"
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/01b98aaf-eccf-5017-b540-fdb60a1ae836",
-        "word_count": 104,
-        "uri": "nyt://article/01b98aaf-eccf-5017-b540-fdb60a1ae836"
-    },
-    {
-        "abstract": "Mouse experiments at Boston University have spotlighted an ambiguous U.S. policy for research on potentially dangerous pathogens.",
-        "web_url": "https://www.nytimes.com/2022/10/22/science/covid-virus-laboratory-experiments.html",
-        "snippet": "Mouse experiments at Boston University have spotlighted an ambiguous U.S. policy for research on potentially dangerous pathogens.",
-        "lead_paragraph": "Scientists at Boston University came under fire this week for an experiment in which they tinkered with the Covid virus. Breathless headlines claimed they had created a deadly new strain, and the National Institutes of Health rebuked the university for not seeking the government\u2019s permission.",
-        "print_section": "A",
-        "print_page": "19",
-        "source": "The New York Times",
-        "headline": {
-            "main": "Lab Manipulations of Covid Virus Fall Under Murky Government Rules",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Lab Manipulations of Covid Virus Fall Under Murky Government Rules",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Research",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Laboratories and Scientific Equipment",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Regulation and Deregulation of Industry",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Epidemics",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "National Institutes of Health",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "National Science Advisory Board for Biosecurity",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Boston University",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "your-feed-science",
-                "rank": 9,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-10-22T09:00:24+0000",
-        "document_type": "article",
-        "news_desk": "Science",
-        "section_name": "Science",
-        "byline": {
-            "original": "By Carl Zimmer and Benjamin Mueller",
+            "original": "By Lola Fadulu, Nate Schweber and Jonah E. Bromwich",
             "person": [
                 {
-                    "firstname": "Carl",
+                    "firstname": "Lola",
                     "middlename": null,
-                    "lastname": "Zimmer",
+                    "lastname": "Fadulu",
                     "qualifier": null,
                     "title": null,
                     "role": "reported",
@@ -299,419 +64,66 @@
                     "rank": 1
                 },
                 {
-                    "firstname": "Benjamin",
+                    "firstname": "Nate",
                     "middlename": null,
-                    "lastname": "Mueller",
+                    "lastname": "Schweber",
                     "qualifier": null,
                     "title": null,
                     "role": "reported",
                     "organization": "",
                     "rank": 2
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/29570f29-d7fe-56b9-9732-e5f0c1163f1b",
-        "word_count": 1852,
-        "uri": "nyt://article/29570f29-d7fe-56b9-9732-e5f0c1163f1b"
-    },
-    {
-        "abstract": "Flu cases are higher than usual for this time of year and are expected to soar in the coming weeks. Another virus, R.S.V., already is straining pediatric hospitals in some states.",
-        "web_url": "https://www.nytimes.com/2022/10/23/health/flu-covid-risk.html",
-        "snippet": "Flu cases are higher than usual for this time of year and are expected to soar in the coming weeks. Another virus, R.S.V., already is straining pediatric hospitals in some states.",
-        "lead_paragraph": "For more than two years, shuttered schools and offices, social distancing and masks granted Americans a reprieve from flu and most other respiratory infections. This winter is likely to be different.",
-        "print_section": "A",
-        "print_page": "1",
-        "source": "The New York Times",
-        "headline": {
-            "main": "A \u2018Tripledemic\u2019? Flu, R.S.V. and Covid May Collide This Winter, Experts Say",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Health Officials Warn of Rough Winter as Three Pathogens Swirl",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Vaccination and Immunization",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Influenza",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Children and Childhood",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coronavirus Omicron Variant",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Respiratory Syncytial Virus (RSV)",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Disease Rates",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "United States",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "your-feed-science",
-                "rank": 9,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-10-23T07:00:16+0000",
-        "document_type": "article",
-        "news_desk": "Science",
-        "section_name": "Health",
-        "byline": {
-            "original": "By Apoorva Mandavilli",
-            "person": [
+                },
                 {
-                    "firstname": "Apoorva",
-                    "middlename": null,
-                    "lastname": "Mandavilli",
+                    "firstname": "Jonah",
+                    "middlename": "E.",
+                    "lastname": "Bromwich",
                     "qualifier": null,
                     "title": null,
                     "role": "reported",
                     "organization": "",
-                    "rank": 1
+                    "rank": 3
                 }
             ],
             "organization": null
         },
         "type_of_material": "News",
-        "_id": "nyt://article/cf5c39a7-22a3-572b-a11b-7a7dcbde6eb5",
-        "word_count": 1537,
-        "uri": "nyt://article/cf5c39a7-22a3-572b-a11b-7a7dcbde6eb5"
+        "_id": "nyt://article/99dd89f9-3120-57d7-9ff4-2f674152a413",
+        "word_count": 694,
+        "uri": "nyt://article/99dd89f9-3120-57d7-9ff4-2f674152a413"
     },
     {
-        "abstract": "With a possible winter surge on the horizon, the president tried to draw attention to the retooled shots, which Americans have been slow to receive so far.",
-        "web_url": "https://www.nytimes.com/2022/10/25/us/politics/biden-updated-booster-covid.html",
-        "snippet": "With a possible winter surge on the horizon, the president tried to draw attention to the retooled shots, which Americans have been slow to receive so far.",
-        "lead_paragraph": "WASHINGTON \u2014 President Biden received an updated coronavirus booster shot on Tuesday, using the opportunity to plead with Americans to bolster their protection ahead of a possible surge in virus cases in the coming months.",
-        "print_section": "A",
-        "print_page": "19",
-        "source": "The New York Times",
-        "headline": {
-            "main": "Biden Receives Updated Booster Shot and Urges Americans to Follow Suit",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Biden Gets Covid Booster; Urges Americans to Follow",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "persons",
-                "value": "Biden, Joseph R Jr",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Vaccination and Immunization",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coronavirus Omicron Variant",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "United States Politics and Government",
-                "rank": 5,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-10-25T18:53:57+0000",
-        "document_type": "article",
-        "news_desk": "Washington",
-        "section_name": "U.S.",
-        "subsection_name": "Politics",
-        "byline": {
-            "original": "By Noah Weiland",
-            "person": [
-                {
-                    "firstname": "Noah",
-                    "middlename": null,
-                    "lastname": "Weiland",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/d8dca6ba-7cc3-54b4-bfac-7b18dd71f6a0",
-        "word_count": 1064,
-        "uri": "nyt://article/d8dca6ba-7cc3-54b4-bfac-7b18dd71f6a0"
-    },
-    {
-        "abstract": "The president received his third coronavirus booster shot, his fifth vaccine dose overall, about three months after contracting the virus.",
-        "web_url": "https://www.nytimes.com/video/us/politics/100000008599789/biden-covid-vaccine-winter.html",
-        "snippet": "The president received his third coronavirus booster shot, his fifth vaccine dose overall, about three months after contracting the virus.",
-        "lead_paragraph": "The president received his third coronavirus booster shot, his fifth vaccine dose overall, about three months after contracting the virus.",
-        "source": "The New York Times",
-        "headline": {
-            "main": "Biden Urges Americans to Get New Covid Booster Shot Before Winter",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": null,
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Biden, Joseph R Jr",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Vaccination and Immunization",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Viruses",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "United States",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "United States Politics and Government",
-                "rank": 6,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-10-25T21:28:46+0000",
-        "document_type": "multimedia",
-        "news_desk": "",
-        "section_name": "U.S.",
-        "subsection_name": "Politics",
-        "byline": {
-            "original": "By The New York Times",
-            "person": [],
-            "organization": "The New York Times"
-        },
-        "type_of_material": "Video",
-        "_id": "nyt://video/c17ac7b5-865e-55e3-b718-26d46f7ef2d8",
-        "word_count": 0,
-        "uri": "nyt://video/c17ac7b5-865e-55e3-b718-26d46f7ef2d8"
-    },
-    {
-        "abstract": "New Yorkers are falling ill with new variants of Covid and old illnesses like flu and RSV that masking and other precautions once held at bay.",
-        "web_url": "https://www.nytimes.com/2022/10/27/nyregion/nyc-hospitalizations-covid-flu-rsv.html",
-        "snippet": "New Yorkers are falling ill with new variants of Covid and old illnesses like flu and RSV that masking and other precautions once held at bay.",
-        "lead_paragraph": "Just in time for colder weather and with other respiratory viruses on the rise, the mix of Covid-19 variants is shifting again in New York City in potentially worrying ways.",
-        "print_section": "A",
-        "print_page": "22",
-        "source": "The New York Times",
-        "headline": {
-            "main": "Covid, Flu, RSV: Hospitalizations Rise as Wave of Viruses Hits New York",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Hospitalizations on Rise As Combination of Viruses  Converge on New York City",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Children and Childhood",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Hospitals",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coronavirus Omicron Variant",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Vaccination and Immunization",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Emergency Medical Treatment",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Respiratory Syncytial Virus (RSV)",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Viruses",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Influenza",
-                "rank": 9,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Hochul, Kathleen C",
-                "rank": 10,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Varma, Jay K",
-                "rank": 11,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Van Kerkhove, Maria",
-                "rank": 12,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "New York City",
-                "rank": 13,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-10-27T09:00:24+0000",
-        "document_type": "article",
-        "news_desk": "Metro",
-        "section_name": "New York",
-        "byline": {
-            "original": "By Sharon Otterman",
-            "person": [
-                {
-                    "firstname": "Sharon",
-                    "middlename": null,
-                    "lastname": "Otterman",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/ba580369-0bdf-53ba-8472-7af53119b440",
-        "word_count": 1022,
-        "uri": "nyt://article/ba580369-0bdf-53ba-8472-7af53119b440"
-    },
-    {
-        "abstract": "An outbreak in Zhengzhou has sent an unknown number of workers at the city\u2019s Foxconn plant into quarantine. It\u2019s a bad time of year for output of iPhones to slow down.",
-        "web_url": "https://www.nytimes.com/2022/10/27/world/asia/chinas-latest-covid-lockdown-affects-a-major-iphone-factory.html",
-        "snippet": "An outbreak in Zhengzhou has sent an unknown number of workers at the city\u2019s Foxconn plant into quarantine. It\u2019s a bad time of year for output of iPhones to slow down.",
-        "lead_paragraph": "A Covid-19 outbreak at the largest iPhone manufacturing plant in Zhengzhou, China, has forced some factory workers into quarantine, part of a citywide outbreak that has also prompted shops and hotels near the factory to close.",
+        "abstract": "Hundreds of workers are said to have fled, afraid of being forced into quarantine with inadequate food and supplies.",
+        "web_url": "https://www.nytimes.com/2022/11/02/world/asia/china-foxconn-workers.html",
+        "snippet": "Hundreds of workers are said to have fled, afraid of being forced into quarantine with inadequate food and supplies.",
+        "lead_paragraph": "Covid lockdown measures have generated a wave of fear and unrest inside the world\u2019s largest iPhone manufacturing complex, in north-central China, with stories of food shortages among quarantined employees filling social media, and large numbers of workers fleeing the facility.",
         "print_section": "B",
-        "print_page": "4",
+        "print_page": "5",
         "source": "The New York Times",
         "headline": {
-            "main": "China\u2019s Latest Covid Lockdown Affects a Major iPhone Factory",
+            "main": "After Covid Lockdown, Fear and Unrest Sweep iPhone Factory in China",
             "kicker": null,
             "content_kicker": null,
-            "print_headline": "Some Employees Are Quarantined At a Major iPhone Factory in China",
+            "print_headline": "Unease as Covid Lockdown Detains 200,000 at iPhone Plant in China",
             "name": null,
             "seo": null,
             "sub": null
         },
         "keywords": [
             {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
+                "name": "organizations",
+                "value": "Foxconn Technology",
                 "rank": 1,
                 "major": "N"
             },
             {
                 "name": "organizations",
-                "value": "Foxconn Technology",
+                "value": "Apple Inc",
                 "rank": 2,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Quarantines",
+                "value": "Coronavirus (2019-nCoV)",
                 "rank": 3,
                 "major": "N"
             },
@@ -728,14 +140,14 @@
                 "major": "N"
             },
             {
-                "name": "persons",
-                "value": "Xi Jinping",
+                "name": "subject",
+                "value": "Computers and the Internet",
                 "rank": 6,
                 "major": "N"
             },
             {
-                "name": "organizations",
-                "value": "Apple Inc",
+                "name": "subject",
+                "value": "Workplace Hazards and Violations",
                 "rank": 7,
                 "major": "N"
             },
@@ -746,7 +158,7 @@
                 "major": "N"
             }
         ],
-        "pub_date": "2022-10-27T13:09:16+0000",
+        "pub_date": "2022-11-02T07:56:25+0000",
         "document_type": "article",
         "news_desk": "Business",
         "section_name": "World",
@@ -778,19 +190,19 @@
             "organization": null
         },
         "type_of_material": "News",
-        "_id": "nyt://article/bfe7ead9-b472-560d-bc30-e83de90c9a17",
-        "word_count": 652,
-        "uri": "nyt://article/bfe7ead9-b472-560d-bc30-e83de90c9a17"
+        "_id": "nyt://article/da60e96d-e93d-544f-b870-f40b49f8102b",
+        "word_count": 863,
+        "uri": "nyt://article/da60e96d-e93d-544f-b870-f40b49f8102b"
     },
     {
-        "abstract": "A new study found that more than a third of those who recovered from an infection had symptoms recur days or weeks later.",
-        "web_url": "https://www.nytimes.com/2022/10/27/well/live/covid-symptoms-rebound-paxlovid.html",
-        "snippet": "A new study found that more than a third of those who recovered from an infection had symptoms recur days or weeks later.",
-        "lead_paragraph": "When the antiviral treatment Paxlovid came into wider use for Covid-19 infections earlier this year, doctors who prescribed it and patients who took it noticed that symptoms sometimes flared up again a few days after having gone away. Some people even tested negative before they experienced the rebound. But this puzzling phenomenon can occur whether you take Paxlovid or not, according to a new study.",
+        "abstract": "Infections are common, and deaths are high, but we haven\u2019t had a truly new variant for about a year.",
+        "web_url": "https://www.nytimes.com/2022/11/02/opinion/covid-omicron-variants-scrabble.html",
+        "snippet": "Infections are common, and deaths are high, but we haven\u2019t had a truly new variant for about a year.",
+        "lead_paragraph": "The Covid pandemic still isn\u2019t over, but it has gone remarkably flat.",
         "source": "The New York Times",
         "headline": {
-            "main": "Covid-19 Symptoms Can Rebound Even if You Don\u2019t Take Paxlovid",
-            "kicker": null,
+            "main": "The New Covid Subvariants Don\u2019t Really Change Anything",
+            "kicker": "David Wallace-Wells",
             "content_kicker": null,
             "print_headline": null,
             "name": null,
@@ -800,71 +212,58 @@
         "keywords": [
             {
                 "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
+                "value": "internal-sub-only-nl",
                 "rank": 1,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Research",
+                "value": "Coronavirus (2019-nCoV)",
                 "rank": 2,
                 "major": "N"
             },
             {
-                "name": "organizations",
-                "value": "Journal of the American Medical Assn",
+                "name": "subject",
+                "value": "Coronavirus Omicron Variant",
                 "rank": 3,
                 "major": "N"
             },
             {
-                "name": "organizations",
-                "value": "JAMA Network Open",
+                "name": "subject",
+                "value": "Vaccination and Immunization",
                 "rank": 4,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Paxlovid (Drug)",
+                "value": "Epidemics",
                 "rank": 5,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Immune System",
+                "value": "Disease Rates",
                 "rank": 6,
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "Drugs (Pharmaceuticals)",
+                "name": "glocations",
+                "value": "United States",
                 "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Disease Rates",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coughs",
-                "rank": 9,
                 "major": "N"
             }
         ],
-        "pub_date": "2022-10-27T17:17:48+0000",
+        "pub_date": "2022-11-02T19:00:06+0000",
         "document_type": "article",
-        "news_desk": "Well",
-        "section_name": "Well",
-        "subsection_name": "Live",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
         "byline": {
-            "original": "By Knvul Sheikh",
+            "original": "By David Wallace-Wells",
             "person": [
                 {
-                    "firstname": "Knvul",
+                    "firstname": "David",
                     "middlename": null,
-                    "lastname": "Sheikh",
+                    "lastname": "Wallace-Wells",
                     "qualifier": null,
                     "title": null,
                     "role": "reported",
@@ -874,24 +273,22 @@
             ],
             "organization": null
         },
-        "type_of_material": "News",
-        "_id": "nyt://article/93d68d81-8118-5597-a73e-1b92b6c2c368",
-        "word_count": 947,
-        "uri": "nyt://article/93d68d81-8118-5597-a73e-1b92b6c2c368"
+        "type_of_material": "Op-Ed",
+        "_id": "nyt://article/d77dccfc-14f1-5dd6-bbd9-7c78adc46c1b",
+        "word_count": 1422,
+        "uri": "nyt://article/d77dccfc-14f1-5dd6-bbd9-7c78adc46c1b"
     },
     {
-        "abstract": "The report, signed by Senator Richard Burr, foreshadows a new wave of political wrangling over Covid\u2019s origins if Republicans gain control of the House or Senate.",
-        "web_url": "https://www.nytimes.com/2022/10/27/science/covid-lab-leak-burr-report.html",
-        "snippet": "The report, signed by Senator Richard Burr, foreshadows a new wave of political wrangling over Covid\u2019s origins if Republicans gain control of the House or Senate.",
-        "lead_paragraph": "The top Republican on the Senate health committee said in a report on Thursday that the coronavirus pandemic was most likely caused by a laboratory incident in China. The report offered little new evidence, however, and was disputed by many scientists, including those whose research suggests that the outbreak originated instead at a live animal market.",
-        "print_section": "A",
-        "print_page": "22",
+        "abstract": "The world needs to rebuild people\u2019s trust in public health.",
+        "web_url": "https://www.nytimes.com/2022/11/03/opinion/uganda-ebola-trust.html",
+        "snippet": "The world needs to rebuild people\u2019s trust in public health.",
+        "lead_paragraph": "KAMPALA, Uganda \u2014 The first major Ebola outbreak in Uganda happened when I was a medical student at Makerere University in Kampala. A professor of virology explained to us the dangers of filoviruses, the virus family Ebola belongs to, and why they should be avoided at all costs.",
         "source": "The New York Times",
         "headline": {
-            "main": "G.O.P. Senator\u2019s Report on Covid Origins Suggests Lab Leak, but Offers Little New Evidence",
-            "kicker": null,
+            "main": "Uganda\u2019s Ebola Outbreak Is a Test of What We\u2019ve Learned From Covid",
+            "kicker": "Guest Essay",
             "content_kicker": null,
-            "print_headline": "Republican\u2019s Report on Virus Suggests It Was Lab Leak, but Without Much Proof",
+            "print_headline": null,
             "name": null,
             "seo": null,
             "sub": null
@@ -899,7 +296,7 @@
         "keywords": [
             {
                 "name": "subject",
-                "value": "United States Politics and Government",
+                "value": "Ebola Virus",
                 "rank": 1,
                 "major": "N"
             },
@@ -911,80 +308,172 @@
             },
             {
                 "name": "subject",
-                "value": "Wildlife Trade and Poaching",
+                "value": "Vaccination and Immunization",
                 "rank": 3,
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "Animals",
+                "name": "glocations",
+                "value": "Uganda",
                 "rank": 4,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Research",
+                "value": "Rumors and Misinformation",
                 "rank": 5,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Politics and Government",
+                "value": "Epidemics",
                 "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Laboratories and Scientific Equipment",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Viruses",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "your-feed-science",
-                "rank": 9,
                 "major": "N"
             }
         ],
-        "pub_date": "2022-10-27T22:34:50+0000",
+        "pub_date": "2022-11-03T05:00:04+0000",
         "document_type": "article",
-        "news_desk": "Science",
-        "section_name": "Science",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
         "byline": {
-            "original": "By Benjamin Mueller and Carl Zimmer",
+            "original": "By Henry Kyobe Bosa",
             "person": [
                 {
-                    "firstname": "Benjamin",
-                    "middlename": null,
-                    "lastname": "Mueller",
+                    "firstname": "Henry",
+                    "middlename": "Kyobe",
+                    "lastname": "Bosa",
                     "qualifier": null,
                     "title": null,
                     "role": "reported",
                     "organization": "",
                     "rank": 1
-                },
-                {
-                    "firstname": "Carl",
-                    "middlename": null,
-                    "lastname": "Zimmer",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 2
                 }
             ],
             "organization": null
         },
-        "type_of_material": "News",
-        "_id": "nyt://article/60f552e0-4789-5971-9c27-1acee8876721",
-        "word_count": 1003,
-        "uri": "nyt://article/60f552e0-4789-5971-9c27-1acee8876721"
+        "type_of_material": "Op-Ed",
+        "_id": "nyt://article/48a45cc9-7c46-5894-8aaa-4e0ce0e4668c",
+        "word_count": 1102,
+        "uri": "nyt://article/48a45cc9-7c46-5894-8aaa-4e0ce0e4668c"
+    },
+    {
+        "abstract": "Getting shots into arms isn\u2019t rocket science, or at least it shouldn\u2019t be.",
+        "web_url": "https://www.nytimes.com/2022/11/03/opinion/covid-booster-vaccine-poverty.html",
+        "snippet": "Getting shots into arms isn\u2019t rocket science, or at least it shouldn\u2019t be.",
+        "lead_paragraph": "El Buen Samaritano, an Episcopal outreach ministry in Texas, serves the east side of Austin, the poorer of the two sides of the city split by I-35. There are fewer services there, including many neighborhoods that don\u2019t have a health center. The population is mainly people of color, many whose first language is Spanish. It\u2019s the kind of population that has low Covid vaccination rates.",
+        "source": "The New York Times",
+        "headline": {
+            "main": "The New Covid Boosters Are Incredible, and Everyone Should Get One",
+            "kicker": "Guest Essay",
+            "content_kicker": null,
+            "print_headline": null,
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Vaccination and Immunization",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Poverty",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Income Inequality",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "United States Economy",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Health Insurance and Managed Care",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "American Rescue Plan (2021)",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Coronavirus (2019-nCoV)",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Deaths (Fatalities)",
+                "rank": 8,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Centers for Disease Control and Prevention",
+                "rank": 9,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Federal Emergency Management Agency",
+                "rank": 10,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Biden, Joseph R Jr",
+                "rank": 11,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Austin (Tex)",
+                "rank": 12,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Texas",
+                "rank": 13,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2022-11-03T09:00:21+0000",
+        "document_type": "article",
+        "news_desk": "OpEd",
+        "section_name": "Opinion",
+        "byline": {
+            "original": "By Bryce Covert",
+            "person": [
+                {
+                    "firstname": "Bryce",
+                    "middlename": null,
+                    "lastname": "Covert",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 1
+                }
+            ],
+            "organization": null
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "nyt://article/993e2a45-24f0-55a0-a68b-5b54b65a434d",
+        "word_count": 1900,
+        "uri": "nyt://article/993e2a45-24f0-55a0-a68b-5b54b65a434d"
     }
 ]
