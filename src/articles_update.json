@@ -1,138 +1,92 @@
 [
     {
-        "abstract": "Investors cheered the changes, although officials emphasized that measures \u201cmust not be relaxed.\u201d",
-        "web_url": "https://www.nytimes.com/2022/11/11/business/china-zero-covid-markets.html",
-        "snippet": "Investors cheered the changes, although officials emphasized that measures \u201cmust not be relaxed.\u201d",
-        "lead_paragraph": "As China\u2019s economy continues to be squeezed by the cost of the country\u2019s zero-tolerance approach to Covid, the government softened some of its restrictions on Friday, even as it remained committed to its strict pandemic policy.",
-        "print_section": "B",
-        "print_page": "7",
+        "abstract": "The city has pulled back its monkeypox vaccination vans as the number of cases dropped sharply.",
+        "web_url": "https://www.nytimes.com/2022/11/18/nyregion/why-it-was-easier-to-curb-monkeypox-than-covid.html",
+        "snippet": "The city has pulled back its monkeypox vaccination vans as the number of cases dropped sharply.",
+        "lead_paragraph": "Good morning. It\u2019s Friday. We\u2019ll look at why the monkeypox outbreak is subsiding in New York City. And, an election follow-up: Did Mayor Eric Adams\u2019s focus on crime hurt Democratic candidates last week?",
         "source": "The New York Times",
         "headline": {
-            "main": "China Eases Some Pandemic Policies, While Sticking to \u2018Zero Covid\u2019",
-            "kicker": null,
+            "main": "Why It Was Easier to Curb Monkeypox Than Covid",
+            "kicker": "New York Today",
             "content_kicker": null,
-            "print_headline": "China Eases Some Pandemic Policies, While Sticking to Its \u2018Zero-Covid\u2019 Approach",
+            "print_headline": null,
             "name": null,
             "seo": null,
             "sub": null
         },
         "keywords": [
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Contact Tracing (Public Health)",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Quarantines",
-                "rank": 3,
-                "major": "N"
-            },
             {
                 "name": "glocations",
-                "value": "China",
-                "rank": 4,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-11-11T09:03:34+0000",
-        "document_type": "article",
-        "news_desk": "Business",
-        "section_name": "Business Day",
-        "byline": {
-            "original": "By Alexandra Stevenson",
-            "person": [
-                {
-                    "firstname": "Alexandra",
-                    "middlename": null,
-                    "lastname": "Stevenson",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/5dba8aa2-a8e5-52d2-a221-097ed4c2c1d3",
-        "word_count": 943,
-        "uri": "nyt://article/5dba8aa2-a8e5-52d2-a221-097ed4c2c1d3"
-    },
-    {
-        "abstract": "The risk of developing symptoms of depression remains high up to a year after you\u2019ve recovered.",
-        "web_url": "https://www.nytimes.com/2022/11/12/well/long-covid-depression-symptoms-treatment.html",
-        "snippet": "The risk of developing symptoms of depression remains high up to a year after you\u2019ve recovered.",
-        "lead_paragraph": "The World Health Organization noted this year that anxiety and depression increased by 25 percent across the globe in just the first year of the Covid-19 pandemic. And researchers have continued to find more evidence that the coronavirus wreaked havoc on our mental health: In a 2021 study, more than half of American adults reported symptoms of major depressive disorder after a coronavirus infection. The risk of developing these symptoms \u2014 as well as other mental health disorders \u2014 remains high up to a year after you\u2019ve recovered.",
-        "print_section": "A",
-        "print_page": "3",
-        "source": "The New York Times",
-        "headline": {
-            "main": "Covid Depression Is Real. Here\u2019s What You Need to Know.",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Here to Help; How to Identify and Treat Depression After Covid",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
+                "value": "New York City",
                 "rank": 1,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Mental Health and Disorders",
+                "value": "internal-storyline-no",
                 "rank": 2,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Brain",
+                "value": "Midterm Elections (2022)",
                 "rank": 3,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Psychology and Psychologists",
+                "value": "Monkeypox",
                 "rank": 4,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Depression (Mental)",
+                "value": "Coronavirus (2019-nCoV)",
                 "rank": 5,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Long Covid",
+                "value": "Bail",
                 "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Vaccination and Immunization",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Adams, Eric L",
+                "rank": 8,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Hochul, Kathleen C",
+                "rank": 9,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Zeldin, Lee M",
+                "rank": 10,
                 "major": "N"
             }
         ],
-        "pub_date": "2022-11-12T10:00:16+0000",
+        "pub_date": "2022-11-18T08:30:04+0000",
         "document_type": "article",
-        "news_desk": "Well",
-        "section_name": "Well",
+        "news_desk": "Metro",
+        "section_name": "New York",
         "byline": {
-            "original": "By Knvul Sheikh",
+            "original": "By James Barron",
             "person": [
                 {
-                    "firstname": "Knvul",
+                    "firstname": "James",
                     "middlename": null,
-                    "lastname": "Sheikh",
+                    "lastname": "Barron",
                     "qualifier": null,
                     "title": null,
                     "role": "reported",
@@ -142,22 +96,24 @@
             ],
             "organization": null
         },
-        "type_of_material": "News",
-        "_id": "nyt://article/c4c6b820-199a-5357-8621-7a7804392f74",
-        "word_count": 1135,
-        "uri": "nyt://article/c4c6b820-199a-5357-8621-7a7804392f74"
+        "type_of_material": "briefing",
+        "_id": "nyt://article/68b2de9f-d70d-5935-89dd-905952c3cc40",
+        "word_count": 1501,
+        "uri": "nyt://article/68b2de9f-d70d-5935-89dd-905952c3cc40"
     },
     {
-        "abstract": "With China\u2019s strict pandemic policies stalling the economy at home and globally, Treasury Secretary Janet Yellen said American mRNA vaccines are at the ready.",
-        "web_url": "https://www.nytimes.com/2022/11/14/world/asia/yellen-china-covid-vaccinations.html",
-        "snippet": "With China\u2019s strict pandemic policies stalling the economy at home and globally, Treasury Secretary Janet Yellen said American mRNA vaccines are at the ready.",
-        "lead_paragraph": "BALI, Indonesia \u2014 Treasury Secretary Janet L. Yellen said on Monday that she hopes China is able to roll out a more effective vaccination campaign to combat the coronavirus. Thus far, Beijing has largely contained its spread with strict lockdowns and travel restrictions that have slowed its economy and weighed on global economic growth.",
+        "abstract": "Financial and bureaucratic barriers in the United States mean that the next generation of Covid vaccines may well be designed here, but used elsewhere.",
+        "web_url": "https://www.nytimes.com/2022/11/18/health/covid-nasal-vaccines-warp-speed.html",
+        "snippet": "Financial and bureaucratic barriers in the United States mean that the next generation of Covid vaccines may well be designed here, but used elsewhere.",
+        "lead_paragraph": "Operation Warp Speed, the Trump-era program that poured billions of dollars into developing Covid shots, seemed to signal a new dawn of American vaccine making, demonstrating how decades of scientific grunt work could be turned into lifesaving medicine in a matter of months.",
+        "print_section": "A",
+        "print_page": "1",
         "source": "The New York Times",
         "headline": {
-            "main": "Yellen Encourages Vaccinations in China as Covid Restrictions Slow Growth",
+            "main": "The End of Vaccines at \u2018Warp Speed\u2019",
             "kicker": null,
             "content_kicker": null,
-            "print_headline": null,
+            "print_headline": "U.S. Falls Behind On Covid Vaccines As Funds Dry Up",
             "name": null,
             "seo": null,
             "sub": null
@@ -177,49 +133,49 @@
             },
             {
                 "name": "subject",
-                "value": "International Relations",
+                "value": "Disease Rates",
                 "rank": 3,
                 "major": "N"
             },
             {
-                "name": "organizations",
-                "value": "Group of Twenty",
+                "name": "subject",
+                "value": "Clinical Trials",
                 "rank": 4,
                 "major": "N"
             },
             {
-                "name": "organizations",
-                "value": "Treasury Department",
+                "name": "subject",
+                "value": "Drugs (Pharmaceuticals)",
                 "rank": 5,
                 "major": "N"
             },
             {
-                "name": "persons",
-                "value": "Yellen, Janet L",
+                "name": "subject",
+                "value": "Research",
                 "rank": 6,
                 "major": "N"
             },
             {
                 "name": "persons",
-                "value": "Xi Jinping",
+                "value": "Biden, Joseph R Jr",
                 "rank": 7,
                 "major": "N"
             },
             {
-                "name": "persons",
-                "value": "Biden, Joseph R Jr",
+                "name": "organizations",
+                "value": "Republican Party",
                 "rank": 8,
                 "major": "N"
             },
             {
-                "name": "glocations",
-                "value": "Indonesia",
+                "name": "subject",
+                "value": "Federal Budget (US)",
                 "rank": 9,
                 "major": "N"
             },
             {
-                "name": "glocations",
-                "value": "China",
+                "name": "subject",
+                "value": "United States Politics and Government",
                 "rank": 10,
                 "major": "N"
             },
@@ -228,20 +184,25 @@
                 "value": "United States",
                 "rank": 11,
                 "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "your-feed-healthcare",
+                "rank": 12,
+                "major": "N"
             }
         ],
-        "pub_date": "2022-11-14T08:15:19+0000",
+        "pub_date": "2022-11-18T10:00:36+0000",
         "document_type": "article",
-        "news_desk": "Foreign",
-        "section_name": "World",
-        "subsection_name": "Asia Pacific",
+        "news_desk": "Science",
+        "section_name": "Health",
         "byline": {
-            "original": "By Alan Rappeport",
+            "original": "By Benjamin Mueller",
             "person": [
                 {
-                    "firstname": "Alan",
+                    "firstname": "Benjamin",
                     "middlename": null,
-                    "lastname": "Rappeport",
+                    "lastname": "Mueller",
                     "qualifier": null,
                     "title": null,
                     "role": "reported",
@@ -252,29 +213,31 @@
             "organization": null
         },
         "type_of_material": "News",
-        "_id": "nyt://article/1cf9a39b-6ea4-5b81-b4fa-f0c0f77baf2e",
-        "word_count": 475,
-        "uri": "nyt://article/1cf9a39b-6ea4-5b81-b4fa-f0c0f77baf2e"
+        "_id": "nyt://article/cf38d843-3ace-59f5-b838-885b39a914b0",
+        "word_count": 1715,
+        "uri": "nyt://article/cf38d843-3ace-59f5-b838-885b39a914b0"
     },
     {
-        "abstract": "A study suggested that the updated booster shot produced higher levels of neutralizing antibodies against the Omicron subvariants BA.4 and BA.5 than the first booster, the company said.",
-        "web_url": "https://www.nytimes.com/2022/11/14/us/politics/moderna-booster.html",
-        "snippet": "A study suggested that the updated booster shot produced higher levels of neutralizing antibodies against the Omicron subvariants BA.4 and BA.5 than the first booster, the company said.",
-        "lead_paragraph": "WASHINGTON \u2014 A new study by Moderna suggests that its updated coronavirus booster strengthens a key component of the immune system\u2019s defense against the Omicron subvariant that accounted for most infections in the United States in recent months.",
+        "abstract": "The shots may help vulnerable Americans dodge serious illness or death. But some experts believe boosters must be improved and are calling for a new strategy.",
+        "web_url": "https://www.nytimes.com/2022/11/18/health/covid-boosters-surge.html",
+        "snippet": "The shots may help vulnerable Americans dodge serious illness or death. But some experts believe boosters must be improved and are calling for a new strategy.",
+        "lead_paragraph": "As winter looms and Americans increasingly gather indoors without masks or social distancing, a medley of new coronavirus variants is seeding a rise in cases and hospitalizations in counties across the nation.",
+        "print_section": "A",
+        "print_page": "1",
         "source": "The New York Times",
         "headline": {
-            "main": "Moderna Says New Covid Booster Strengthens Immune Response Against Subvariants",
+            "main": "Will Covid Boosters Prevent Another Wave? Scientists Aren\u2019t So Sure.",
             "kicker": null,
             "content_kicker": null,
-            "print_headline": null,
+            "print_headline": "Scientists Warn A Booster Policy Needs Updating",
             "name": null,
             "seo": null,
             "sub": null
         },
         "keywords": [
             {
-                "name": "organizations",
-                "value": "Moderna Inc",
+                "name": "subject",
+                "value": "Coronavirus (2019-nCoV)",
                 "rank": 1,
                 "major": "N"
             },
@@ -286,737 +249,174 @@
             },
             {
                 "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
+                "value": "Coronavirus Omicron Variant",
                 "rank": 3,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Coronavirus Omicron Variant",
+                "value": "Disease Rates",
                 "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Research",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "United States Politics and Government",
-                "rank": 6,
                 "major": "N"
             },
             {
                 "name": "subject",
                 "value": "Antibodies",
-                "rank": 7,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-11-14T12:44:37+0000",
-        "document_type": "article",
-        "news_desk": "Washington",
-        "section_name": "U.S.",
-        "subsection_name": "Politics",
-        "byline": {
-            "original": "By Sharon LaFraniere",
-            "person": [
-                {
-                    "firstname": "Sharon",
-                    "middlename": null,
-                    "lastname": "LaFraniere",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/b5dc96bd-b03e-56b1-bc00-0614c0738428",
-        "word_count": 1037,
-        "uri": "nyt://article/b5dc96bd-b03e-56b1-bc00-0614c0738428"
-    },
-    {
-        "abstract": "The prime minister has met with more than a dozen world leaders in recent days, including President Biden, who tested negative on Tuesday.",
-        "web_url": "https://www.nytimes.com/2022/11/14/world/asia/hun-sen-cambodia-covid.html",
-        "snippet": "The prime minister has met with more than a dozen world leaders in recent days, including President Biden, who tested negative on Tuesday.",
-        "lead_paragraph": "BALI, Indonesia \u2014 Prime Minister Hun Sen of Cambodia said on Tuesday that he had tested positive for the coronavirus and that his delegation would cut short its trip to Bali for the Group of 20 summit.",
-        "print_section": "A",
-        "print_page": "7",
-        "source": "The New York Times",
-        "headline": {
-            "main": "Hun Sen of Cambodia Cuts G20 Trip Short After Testing Positive for Coronavirus",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Cambodian Leader Tests Positive at Summit",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "persons",
-                "value": "Hun Sen",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "Cambodia",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "Bali (Indonesia)",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Group of Twenty",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Assn of Southeast Asian Nations",
-                "rank": 6,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-11-15T03:07:47+0000",
-        "document_type": "article",
-        "news_desk": "Foreign",
-        "section_name": "World",
-        "subsection_name": "Asia Pacific",
-        "byline": {
-            "original": "By Sui-Lee Wee",
-            "person": [
-                {
-                    "firstname": "Sui-lee",
-                    "middlename": null,
-                    "lastname": "Wee",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/d210b169-3018-58fd-8ebb-a937561924dd",
-        "word_count": 274,
-        "uri": "nyt://article/d210b169-3018-58fd-8ebb-a937561924dd"
-    },
-    {
-        "abstract": "Social media footage showed a large crowd confronting Covid workers in hazmat suits and tearing down fences installed as virus control measures in Guangzhou, China. It was unclear whether there were any casualties.",
-        "web_url": "https://www.nytimes.com/video/world/asia/100000008640548/china-guangzhou-covid-protest.html",
-        "snippet": "Social media footage showed a large crowd confronting Covid workers in hazmat suits and tearing down fences installed as virus control measures in Guangzhou, China. It was unclear whether there were any casualties.",
-        "lead_paragraph": "Social media footage showed a large crowd confronting Covid workers in hazmat suits and tearing down fences installed as virus control measures in Guangzhou, China. It was unclear whether there were any casualties.",
-        "source": "Reuters",
-        "headline": {
-            "main": "Footage Shows Rare Protest Against Covid Lockdown in China",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": null,
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Demonstrations, Protests and Riots",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Quarantines",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Viruses",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "China",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "Guangzhou (China)",
-                "rank": 5,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-11-16T10:31:50+0000",
-        "document_type": "multimedia",
-        "news_desk": "",
-        "section_name": "World",
-        "subsection_name": "Asia Pacific",
-        "byline": {
-            "original": "By Reuters",
-            "person": [],
-            "organization": "Reuters"
-        },
-        "type_of_material": "Video",
-        "_id": "nyt://video/0415ed0d-7c8e-5dc7-9af2-88e1c82845e5",
-        "word_count": 0,
-        "uri": "nyt://video/0415ed0d-7c8e-5dc7-9af2-88e1c82845e5"
-    },
-    {
-        "abstract": "Weary migrants thronged a street in the manufacturing hub of Guangzhou to protest food shortages and lengthy stay-at-home orders under China\u2019s strict \u201czero-Covid\u201d policy.",
-        "web_url": "https://www.nytimes.com/2022/11/16/world/asia/china-covid-protest.html",
-        "snippet": "Weary migrants thronged a street in the manufacturing hub of Guangzhou to protest food shortages and lengthy stay-at-home orders under China\u2019s strict \u201czero-Covid\u201d policy.",
-        "lead_paragraph": "A lengthy lockdown and shortages of food prompted residents to take to the streets in China\u2019s southern manufacturing hub of Guangzhou, a rare protest that reflected the growing public frustration with disruptions caused by the country\u2019s Covid restrictions.",
-        "print_section": "A",
-        "print_page": "11",
-        "source": "The New York Times",
-        "headline": {
-            "main": "Covid Lockdown Chaos Sets Off a Rare Protest in a Chinese City",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Protest Erupts  In China City On Problems  Of Lockdown",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Demonstrations, Protests and Riots",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "China",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "Guangzhou (China)",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Factories and Manufacturing",
-                "rank": 4,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-11-16T10:32:40+0000",
-        "document_type": "article",
-        "news_desk": "Foreign",
-        "section_name": "World",
-        "subsection_name": "Asia Pacific",
-        "byline": {
-            "original": "By Chang Che and John Liu",
-            "person": [
-                {
-                    "firstname": "Chang",
-                    "middlename": null,
-                    "lastname": "Che",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                },
-                {
-                    "firstname": "John",
-                    "middlename": null,
-                    "lastname": "Liu",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 2
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/5610ab5c-9988-552e-ac59-59890168daa5",
-        "word_count": 638,
-        "uri": "nyt://article/5610ab5c-9988-552e-ac59-59890168daa5"
-    },
-    {
-        "abstract": "\u201cHairy tongue,\u201d pins and needles and Covid toe are just a few unnerving yet real manifestations of the coronavirus.",
-        "web_url": "https://www.nytimes.com/article/unusual-covid-symptoms.html",
-        "snippet": "\u201cHairy tongue,\u201d pins and needles and Covid toe are just a few unnerving yet real manifestations of the coronavirus.",
-        "lead_paragraph": "By this point in the long slog of the pandemic, many people know the telltale symptoms of a Covid-19 infection: a ragged ache in your throat, a pernicious cough, congestion, fever and full-body exhaustion. But a tiny subset of people also develop less common symptoms, ones that can sound like hexes from a children\u2019s story: hairy tongues, purple toes, welts that sprout on their faces.",
-        "source": "The New York Times",
-        "headline": {
-            "main": "5 Unusual Covid Symptoms \u2014 and What to Do About Them",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": null,
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Skin",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Anxiety and Stress",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Tongue",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Chin-Hong, Peter",
                 "rank": 5,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Content Type: Service",
-                "rank": 6,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-11-16T15:46:31+0000",
-        "document_type": "article",
-        "news_desk": "Well",
-        "section_name": "Well",
-        "subsection_name": "Live",
-        "byline": {
-            "original": "By Dani Blum",
-            "person": [
-                {
-                    "firstname": "Dani",
-                    "middlename": null,
-                    "lastname": "Blum",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/b8824276-b50a-561e-91c4-09f6f162f79a",
-        "word_count": 1270,
-        "uri": "nyt://article/b8824276-b50a-561e-91c4-09f6f162f79a"
-    },
-    {
-        "abstract": "Many testing tents and vans are now checking for the flu and R.S.V., too.",
-        "web_url": "https://www.nytimes.com/interactive/2022/11/16/nyregion/covid-tents-nyc.html",
-        "snippet": "Many testing tents and vans are now checking for the flu and R.S.V., too.",
-        "lead_paragraph": "Many testing tents and vans are now checking for the flu and R.S.V., too.",
-        "source": "The New York Times",
-        "headline": {
-            "main": "Covid Tents Have Expanded Their Repertoire",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": null,
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Tests (Medical)",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Influenza",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Health Insurance and Managed Care",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Respiratory Syncytial Virus (RSV)",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "New York City",
-                "rank": 5,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-11-16T22:18:46+0000",
-        "document_type": "multimedia",
-        "news_desk": "New York",
-        "section_name": "New York",
-        "byline": {
-            "original": "By Alyson Krueger",
-            "person": [
-                {
-                    "firstname": "Alyson",
-                    "middlename": null,
-                    "lastname": "Krueger",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "Interactive Feature",
-        "_id": "nyt://interactive/4f036b82-e0d0-58a3-9a44-e952a32a7096",
-        "word_count": 0,
-        "uri": "nyt://interactive/4f036b82-e0d0-58a3-9a44-e952a32a7096"
-    },
-    {
-        "abstract": "A New York Times analysis examines the lengths China will go to eliminate Covid infections. Three years into the pandemic, China stands out in the harshness of its measures.",
-        "web_url": "https://www.nytimes.com/2022/11/16/world/asia/china-zero-covid-policy-videos.html",
-        "snippet": "A New York Times analysis examines the lengths China will go to eliminate Covid infections. Three years into the pandemic, China stands out in the harshness of its measures.",
-        "lead_paragraph": "It has been weeks since Gao Mingjun, a 24-year-old resident of the central Chinese city of Zhengzhou, saw her mother.",
-        "source": "The New York Times",
-        "headline": {
-            "main": "What Videos Show About the Extremes of China\u2019s \u2018Zero Covid\u2019 Policy",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": null,
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Shutdowns (Institutional)",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "WeChat (Mobile App)",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "China",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Video Recordings, Downloads and Streaming",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Quarantines",
+                "value": "Immune System",
                 "rank": 6,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Coronavirus Risks and Safety Concerns",
-                "rank": 7,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-11-16T23:29:22+0000",
-        "document_type": "article",
-        "news_desk": "Video",
-        "section_name": "World",
-        "subsection_name": "Asia Pacific",
-        "byline": {
-            "original": "By Muyi Xiao, Isabelle Qian, Ang Li, Amy Chang Chien and Vivian Wang",
-            "person": [
-                {
-                    "firstname": "Muyi",
-                    "middlename": null,
-                    "lastname": "Xiao",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                },
-                {
-                    "firstname": "Isabelle",
-                    "middlename": null,
-                    "lastname": "Qian",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 2
-                },
-                {
-                    "firstname": "Ang",
-                    "middlename": null,
-                    "lastname": "Li",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 3
-                },
-                {
-                    "firstname": "Amy",
-                    "middlename": "Chang",
-                    "lastname": "Chien",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 4
-                },
-                {
-                    "firstname": "Vivian",
-                    "middlename": null,
-                    "lastname": "Wang",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 5
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/7993606b-cbcf-5ff5-871a-9e96a2e731fc",
-        "word_count": 1538,
-        "uri": "nyt://article/7993606b-cbcf-5ff5-871a-9e96a2e731fc"
-    },
-    {
-        "abstract": "And what to do about unusual Covid symptoms.",
-        "web_url": "https://www.nytimes.com/2022/11/16/briefing/a-window-into-zero-covid-policy.html",
-        "snippet": "And what to do about unusual Covid symptoms.",
-        "lead_paragraph": "This fall, as Omicron spread throughout China, reporters at The Times began noticing an uptick in social media videos that depicted the country\u2019s stringent \u201czero Covid\u201d measures.",
-        "source": "The New York Times",
-        "headline": {
-            "main": "A Window Into \u2018Zero Covid\u2019 Policy",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": null,
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 1,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-11-16T23:46:38+0000",
-        "document_type": "article",
-        "news_desk": "NYTNow",
-        "section_name": "Briefing",
-        "byline": {
-            "original": "By Jonathan Wolfe",
-            "person": [
-                {
-                    "firstname": "Jonathan",
-                    "middlename": null,
-                    "lastname": "Wolfe",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/6234e852-2061-5fc5-a315-9f3623585987",
-        "word_count": 1465,
-        "uri": "nyt://article/6234e852-2061-5fc5-a315-9f3623585987"
-    },
-    {
-        "abstract": "For decades, smaller \u201csafety net\u201d hospitals like Wyckoff Heights Medical Center, in Brooklyn, have been losing money and are under pressure to close. But the pandemic has shown just how needed they are.",
-        "web_url": "https://www.nytimes.com/2022/11/17/nyregion/wyckoff-hospital-brooklyn.html",
-        "snippet": "For decades, smaller \u201csafety net\u201d hospitals like Wyckoff Heights Medical Center, in Brooklyn, have been losing money and are under pressure to close. But the pandemic has shown just how needed they are.",
-        "lead_paragraph": "The bearded young man suffering a psychotic episode craned his neck to get a better view of his body before looking away in horror. \u201cSomething\u2019s coming out of me,\u201d he bellowed from the gurney where he lay in the emergency room at Wyckoff Heights Medical Center, an independent hospital in Brooklyn.",
-        "source": "The New York Times",
-        "headline": {
-            "main": "Covid Almost Broke This Hospital. It Also Might Be What Saves It.",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Struggling to Survive Yet Indispensable",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "vis-photo",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Hospitals",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Health Insurance and Managed Care",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Medicaid",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Diabetes",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Emergency Medical Treatment",
+                "value": "Research",
                 "rank": 7,
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "Medicare",
+                "name": "organizations",
+                "value": "BioNTech SE",
                 "rank": 8,
                 "major": "N"
             },
             {
                 "name": "organizations",
-                "value": "Centers for Medicare and Medicaid Services",
+                "value": "Pfizer Inc",
                 "rank": 9,
                 "major": "N"
             },
             {
                 "name": "organizations",
-                "value": "Health Department (NYS)",
+                "value": "Moderna Inc",
                 "rank": 10,
                 "major": "N"
             },
             {
                 "name": "organizations",
-                "value": "New York University Langone Medical Center",
+                "value": "Novavax Inc",
                 "rank": 11,
                 "major": "N"
             },
             {
-                "name": "organizations",
-                "value": "Mount Sinai Medical Center",
+                "name": "subject",
+                "value": "your-feed-science",
                 "rank": 12,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Northwell Health",
-                "rank": 13,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Wyckoff Heights Medical Center",
-                "rank": 14,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "Brooklyn (NYC)",
-                "rank": 15,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "Bushwick (Brooklyn, NY)",
-                "rank": 16,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "New York State",
-                "rank": 17,
                 "major": "N"
             }
         ],
-        "pub_date": "2022-11-17T10:00:35+0000",
+        "pub_date": "2022-11-18T10:00:43+0000",
         "document_type": "article",
-        "news_desk": "Metropolitan",
-        "section_name": "New York",
+        "news_desk": "Science",
+        "section_name": "Health",
         "byline": {
-            "original": "By Joseph Goldstein and Desiree Rios",
+            "original": "By Apoorva Mandavilli",
             "person": [
                 {
-                    "firstname": "Joseph",
+                    "firstname": "Apoorva",
                     "middlename": null,
-                    "lastname": "Goldstein",
+                    "lastname": "Mandavilli",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 1
+                }
+            ],
+            "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/933cd35e-7408-5afc-99cf-c5e55946c013",
+        "word_count": 1483,
+        "uri": "nyt://article/933cd35e-7408-5afc-99cf-c5e55946c013"
+    },
+    {
+        "abstract": "Debate intensified over a contentious issue: the creation of a fund to help poor and vulnerable countries pay for loss and damage caused by climate change.",
+        "web_url": "https://www.nytimes.com/2022/11/18/climate/un-climate-talks-cop27.html",
+        "snippet": "Debate intensified over a contentious issue: the creation of a fund to help poor and vulnerable countries pay for loss and damage caused by climate change.",
+        "lead_paragraph": "SHARM EL SHEIKH, Egypt \u2014 John Kerry, the United States special envoy for climate change, has tested positive for Covid-19, a State Department spokeswoman said, a development that will sideline him at a crucial moment in the waning hours of negotiations at United Nations climate talks.",
+        "print_section": "A",
+        "print_page": "5",
+        "source": "The New York Times",
+        "headline": {
+            "main": "John Kerry Tests Positive for Covid at U.N. Climate Talks, Complicating Final Hours",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "Kerry\u2019s Covid Diagnosis Muddles Climate Talks",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "United Nations Framework Convention on Climate Change",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Global Warming",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Greenhouse Gas Emissions",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Compensation for Damages (Law)",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Third World and Developing Countries",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "United Nations",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Kerry, John",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "United States International Relations",
+                "rank": 8,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Coronavirus (2019-nCoV)",
+                "rank": 9,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2022-11-18T17:43:28+0000",
+        "document_type": "article",
+        "news_desk": "Climate",
+        "section_name": "Climate",
+        "byline": {
+            "original": "By Max Bearak, Brad Plumer and Lisa Friedman",
+            "person": [
+                {
+                    "firstname": "Max",
+                    "middlename": null,
+                    "lastname": "Bearak",
                     "qualifier": null,
                     "title": null,
                     "role": "reported",
@@ -1024,21 +424,31 @@
                     "rank": 1
                 },
                 {
-                    "firstname": "Desiree",
+                    "firstname": "Brad",
                     "middlename": null,
-                    "lastname": "Rios",
+                    "lastname": "Plumer",
                     "qualifier": null,
                     "title": null,
                     "role": "reported",
                     "organization": "",
                     "rank": 2
+                },
+                {
+                    "firstname": "Lisa",
+                    "middlename": null,
+                    "lastname": "Friedman",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 3
                 }
             ],
             "organization": null
         },
         "type_of_material": "News",
-        "_id": "nyt://article/62185c8e-96d6-5b0f-9913-40714c1612f3",
-        "word_count": 3201,
-        "uri": "nyt://article/62185c8e-96d6-5b0f-9913-40714c1612f3"
+        "_id": "nyt://article/78ff1cd2-98f5-5f78-824a-bfabafb5b971",
+        "word_count": 1637,
+        "uri": "nyt://article/78ff1cd2-98f5-5f78-824a-bfabafb5b971"
     }
 ]
