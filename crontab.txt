@@ -1,0 +1,2 @@
+0 14 * * * /home/guillaume/anaconda3/bin/python /home/guillaume/Python_Projects/DST_DE_project/articles.py >> /home/guillaume/cron_logs/mongo_logs.txt
+0 17 * * * /home/guillaume/anaconda3/bin/python /home/guillaume/Python_Projects/DST_DE_project/data_covid.py >> /home/guillaume/cron_logs/postgres_logs.txt
