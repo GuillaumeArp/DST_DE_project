@@ -49,7 +49,7 @@ with states_data:
                 get_position=["longitude", "latitude"],
                 get_elevation="deaths",
                 radius=20000,
-                elevation_scale=10,
+                elevation_scale=0.3*50,
                 getFillColor = [0, 47, 167, 255]
             ),
             "Covid Cases per states": pdk.Layer(
@@ -59,7 +59,7 @@ with states_data:
                 get_elevation="cases",
                 offset= [1,0],
                 radius=20000,
-                elevation_scale=0.5,
+                elevation_scale=0.3,
                 getFillColor=[158, 253, 56, 255]
             ),
         }
@@ -93,7 +93,7 @@ with states_data:
             % e.reason
         )
     st.markdown(
-            'A noter que l\'échelle des cas positifs est 20 fois plus petite que l\'échelle du nombre de morts pour les états.')
+            'A noter que l\'échelle des cas positifs est 50 fois plus petite que l\'échelle du nombre de morts.')
 
 with counties_data:
     try:
@@ -104,7 +104,7 @@ with counties_data:
                 get_position=["lng", "lat"],
                 get_elevation="deaths",
                 radius=20000,
-                #elevation_scale=10,
+                elevation_scale=50,
                 getFillColor = [0, 47, 167, 255]
             ),
             "Covid Cases per counties": pdk.Layer(
