@@ -22,7 +22,7 @@ client = MongoClient(f"mongodb+srv://{USERNAME}:{USERPWD}@nyt-de.ganwi.mongodb.n
 db = client.nyt
 col = db['articles']
 
-@st.cache
+@st.experimental_memo
 def get_articles():
     """Pulls the articles from the MongoDB database and returns a pandas dataframe.
 
