@@ -12,7 +12,8 @@ RUN apt-get update && apt-get install -y \
 
 RUN pip3 install --upgrade pip
 
-RUN git clone https://github.com/GuillaumeArp/DST_DE_project.git .
+COPY . .
+# RUN git clone https://github.com/GuillaumeArp/DST_DE_project.git .
 
 RUN pip3 install -r requirements.txt
 
