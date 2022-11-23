@@ -22,13 +22,23 @@ client = MongoClient(f"mongodb+srv://{USERNAME}:{USERPWD}@nyt-de.ganwi.mongodb.n
 db = client.nyt
 col = db['articles']
 
-results = list(col.find(projection={'pub_date': 1, 'news_desk': 1, '_id': 0}))
+@st.cache
+def get_articles():
+    """Pulls the articles from the MongoDB database and returns a pandas dataframe.
 
-df_full = pd.DataFrame(results)
-df = df_full.copy()
-df = df[df['pub_date'] != '2021-01-27T17:00:00+0000']
-df['pub_date'] = pd.to_datetime(df['pub_date']).dt.date
-df['count'] = 1
+    Returns:
+        pandas.DataFrame: dataframe containing articles data
+    """
+    results = list(col.find(projection={'pub_date': 1, 'news_desk': 1, '_id': 0}))
+
+    df_full = pd.DataFrame(results)
+    df = df_full.copy()
+    df = df[df['pub_date'] != '2021-01-27T17:00:00+0000']
+    df['pub_date'] = pd.to_datetime(df['pub_date']).dt.date
+    df['count'] = 1
+    return df
+
+df = get_articles()
 
 df_grouped = df.groupby('pub_date').sum(numeric_only=True).reset_index()
 df_category = df.groupby('news_desk').sum(numeric_only=True).reset_index()

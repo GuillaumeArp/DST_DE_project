@@ -26,13 +26,25 @@ st.set_page_config(
 engine = create_engine(f"postgresql+psycopg2://{DBUSER}:{DBPASS}@{DBHOST}/{DBNAME}", echo=False)
 
 #On fait une jointure sur les tables pour associer les données de localisation géographiques aux données covid
-df_covid_states=pd.read_sql('SELECT date,cases, deaths, latitude, longitude, name, geo_states.state FROM covid_states INNER JOIN geo_states ON covid_states.state=geo_states.name ORDER BY date', engine).tail(52)
-#print(df_covid_states)
+@st.experimental_memo
+def get_covid_states():
+    df=pd.read_sql('SELECT date,cases, deaths, latitude, longitude, name, geo_states.state FROM covid_states INNER JOIN geo_states ON covid_states.state=geo_states.name ORDER BY date', engine).tail(52)
+    return df
 
-df_covid_counties=pd.read_sql('SELECT date, cases, deaths, lat, lng, name FROM covid_counties INNER JOIN geo_counties ON covid_counties.fips=geo_counties.fips_code ORDER BY date', engine).tail(3215)
-df_covid_counties.dropna(inplace=True)
-df_covid_us = pd.read_sql('covid_us', engine)
-#print(df_covid_counties)
+@st.experimental_memo
+def get_covid_counties():
+    df=pd.read_sql('SELECT date, cases, deaths, lat, lng, name FROM covid_counties INNER JOIN geo_counties ON covid_counties.fips=geo_counties.fips_code ORDER BY date', engine).tail(3215)
+    df.dropna(inplace=True)
+    return df
+
+@st.experimental_memo
+def get_covid_us():
+    df = pd.read_sql('covid_us', engine)
+    return df
+
+df_covid_states = get_covid_states()
+df_covid_counties = get_covid_counties()
+df_covid_us = get_covid_us()
 
 # On crée les containers streamlit
 header =st.container()
