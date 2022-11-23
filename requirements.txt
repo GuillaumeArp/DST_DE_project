@@ -1,8 +1,8 @@
 pandas==1.4.4
-plotly==5.9.0
+plotly
 psycopg2-binary
-pydeck==0.7.1
-pymongo==4.2.0
-python-dotenv==0.21.0
-SQLAlchemy==1.4.39
-streamlit==1.15.1
+pydeck
+pymongo[srv]
+python-dotenv
+SQLAlchemy
+streamlit

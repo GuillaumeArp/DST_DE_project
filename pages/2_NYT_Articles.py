@@ -30,8 +30,8 @@ df = df[df['pub_date'] != '2021-01-27T17:00:00+0000']
 df['pub_date'] = pd.to_datetime(df['pub_date']).dt.date
 df['count'] = 1
 
-df_grouped = df.groupby('pub_date').sum().reset_index()
-df_category = df.groupby('news_desk').sum().reset_index()
+df_grouped = df.groupby('pub_date').sum(numeric_only=True).reset_index()
+df_category = df.groupby('news_desk').sum(numeric_only=True).reset_index()
 df_category = df_category[(df_category['news_desk'] != '') & (df_category['count'] > 100)].sort_values(by='count', ascending=False).reset_index(drop=True)
 
 st.title('New York Times Articles')
