@@ -1,13 +1,142 @@
 [
     {
-        "abstract": "The city has pulled back its monkeypox vaccination vans as the number of cases dropped sharply.",
-        "web_url": "https://www.nytimes.com/2022/11/18/nyregion/why-it-was-easier-to-curb-monkeypox-than-covid.html",
-        "snippet": "The city has pulled back its monkeypox vaccination vans as the number of cases dropped sharply.",
-        "lead_paragraph": "Good morning. It\u2019s Friday. We\u2019ll look at why the monkeypox outbreak is subsiding in New York City. And, an election follow-up: Did Mayor Eric Adams\u2019s focus on crime hurt Democratic candidates last week?",
+        "abstract": "China wants to fine-tune its stringent pandemic restrictions to reduce the disruption to daily life caused by lockdowns. But officials are still taking few chances.",
+        "web_url": "https://www.nytimes.com/2022/11/22/world/asia/china-zero-covid.html",
+        "snippet": "China wants to fine-tune its stringent pandemic restrictions to reduce the disruption to daily life caused by lockdowns. But officials are still taking few chances.",
+        "lead_paragraph": "Barely a week after no longer requiring residents to show a negative Covid test to use mass transit, the authorities in the northern Chinese city of Shijiazhuang have locked down much of the city for five days as infections surge.",
+        "print_section": "A",
+        "print_page": "4",
         "source": "The New York Times",
         "headline": {
-            "main": "Why It Was Easier to Curb Monkeypox Than Covid",
-            "kicker": "New York Today",
+            "main": "Outbreaks Test China\u2019s Efforts to Limit the Cost of \u2018Zero Covid\u2019",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "Outbreaks Test China\u2019s Efforts to Limit Cost of \u2018Zero Covid\u2019",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "International Relations",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Coronavirus (2019-nCoV)",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Politics and Government",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Vaccination and Immunization",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Coronavirus Risks and Safety Concerns",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Economic Conditions and Trends",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Disease Rates",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Propaganda",
+                "rank": 8,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Communist Party of China",
+                "rank": 9,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Beijing (China)",
+                "rank": 10,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "China",
+                "rank": 11,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Guangzhou (China)",
+                "rank": 12,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Shanghai (China)",
+                "rank": 13,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Shenzhen (China)",
+                "rank": 14,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2022-11-22T07:33:53+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+            "original": "By Keith Bradsher",
+            "person": [
+                {
+                    "firstname": "Keith",
+                    "middlename": null,
+                    "lastname": "Bradsher",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 1
+                }
+            ],
+            "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/396ad67f-3537-523a-bd42-033b0840b795",
+        "word_count": 1304,
+        "uri": "nyt://article/396ad67f-3537-523a-bd42-033b0840b795"
+    },
+    {
+        "abstract": "Empty streets, shuttered shops, long lines at coronavirus testing sites and other scenes from China as it tries to combat rapidly spreading outbreaks in cities across the country.",
+        "web_url": "https://www.nytimes.com/2022/11/22/world/asia/china-covid-photos.html",
+        "snippet": "Empty streets, shuttered shops, long lines at coronavirus testing sites and other scenes from China as it tries to combat rapidly spreading outbreaks in cities across the country.",
+        "lead_paragraph": "Less than a month after softening pandemic restrictions, China has reinstated some \u201czero-Covid\u201d policies in an effort to control a new wave of infections surging across the country.",
+        "source": "The New York Times",
+        "headline": {
+            "main": "This Is What China\u2019s Renewed War on Covid Looks Like",
+            "kicker": null,
             "content_kicker": null,
             "print_headline": null,
             "name": null,
@@ -16,104 +145,58 @@
         },
         "keywords": [
             {
-                "name": "glocations",
-                "value": "New York City",
+                "name": "subject",
+                "value": "vis-photo",
                 "rank": 1,
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "internal-storyline-no",
+                "name": "glocations",
+                "value": "China",
                 "rank": 2,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Midterm Elections (2022)",
+                "value": "Coronavirus (2019-nCoV)",
                 "rank": 3,
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "Monkeypox",
+                "name": "glocations",
+                "value": "Beijing (China)",
                 "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Bail",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Vaccination and Immunization",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Adams, Eric L",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Hochul, Kathleen C",
-                "rank": 9,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Zeldin, Lee M",
-                "rank": 10,
                 "major": "N"
             }
         ],
-        "pub_date": "2022-11-18T08:30:04+0000",
+        "pub_date": "2022-11-22T18:40:54+0000",
         "document_type": "article",
-        "news_desk": "Metro",
-        "section_name": "New York",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
         "byline": {
-            "original": "By James Barron",
-            "person": [
-                {
-                    "firstname": "James",
-                    "middlename": null,
-                    "lastname": "Barron",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                }
-            ],
+            "original": null,
+            "person": [],
             "organization": null
         },
-        "type_of_material": "briefing",
-        "_id": "nyt://article/68b2de9f-d70d-5935-89dd-905952c3cc40",
-        "word_count": 1501,
-        "uri": "nyt://article/68b2de9f-d70d-5935-89dd-905952c3cc40"
+        "type_of_material": "News",
+        "_id": "nyt://article/a6d7ad04-f877-5135-b47a-ac9b89c27082",
+        "word_count": 310,
+        "uri": "nyt://article/a6d7ad04-f877-5135-b47a-ac9b89c27082"
     },
     {
-        "abstract": "Financial and bureaucratic barriers in the United States mean that the next generation of Covid vaccines may well be designed here, but used elsewhere.",
-        "web_url": "https://www.nytimes.com/2022/11/18/health/covid-nasal-vaccines-warp-speed.html",
-        "snippet": "Financial and bureaucratic barriers in the United States mean that the next generation of Covid vaccines may well be designed here, but used elsewhere.",
-        "lead_paragraph": "Operation Warp Speed, the Trump-era program that poured billions of dollars into developing Covid shots, seemed to signal a new dawn of American vaccine making, demonstrating how decades of scientific grunt work could be turned into lifesaving medicine in a matter of months.",
+        "abstract": "Dr. Anthony S. Fauci said the administration was optimistic that \u201cwe\u2019re not going to see a repeat of what we saw last year,\u201d when the Omicron variant swept through the country.",
+        "web_url": "https://www.nytimes.com/2022/11/22/us/politics/fauci-covid-winter-surge.html",
+        "snippet": "Dr. Anthony S. Fauci said the administration was optimistic that \u201cwe\u2019re not going to see a repeat of what we saw last year,\u201d when the Omicron variant swept through the country.",
+        "lead_paragraph": "Federal health officials expressed optimism on Tuesday that the nation was better prepared to weather a surge of Covid-19 infections this winter compared with a year earlier, and they renewed their pleas for Americans to get an updated booster shot ahead of the holidays.",
         "print_section": "A",
         "print_page": "1",
         "source": "The New York Times",
         "headline": {
-            "main": "The End of Vaccines at \u2018Warp Speed\u2019",
+            "main": "A Year After the Omicron Surge, Officials See a Reduced Covid Threat This Winter",
             "kicker": null,
             "content_kicker": null,
-            "print_headline": "U.S. Falls Behind On Covid Vaccines As Funds Dry Up",
+            "print_headline": "Experts Expect Reduced Risk Of Covid Surge",
             "name": null,
             "seo": null,
             "sub": null
@@ -127,78 +210,47 @@
             },
             {
                 "name": "subject",
-                "value": "Vaccination and Immunization",
+                "value": "Coronavirus Omicron Variant",
                 "rank": 2,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Disease Rates",
+                "value": "Vaccination and Immunization",
                 "rank": 3,
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "Clinical Trials",
+                "name": "persons",
+                "value": "Fauci, Anthony S",
                 "rank": 4,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Drugs (Pharmaceuticals)",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Research",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Biden, Joseph R Jr",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Republican Party",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Federal Budget (US)",
-                "rank": 9,
-                "major": "N"
-            },
-            {
-                "name": "subject",
                 "value": "United States Politics and Government",
-                "rank": 10,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "United States",
-                "rank": 11,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "your-feed-healthcare",
-                "rank": 12,
+                "rank": 5,
                 "major": "N"
             }
         ],
-        "pub_date": "2022-11-18T10:00:36+0000",
+        "pub_date": "2022-11-22T19:47:21+0000",
         "document_type": "article",
-        "news_desk": "Science",
-        "section_name": "Health",
+        "news_desk": "Washington",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
         "byline": {
-            "original": "By Benjamin Mueller",
+            "original": "By Sharon LaFraniere and Benjamin Mueller",
             "person": [
+                {
+                    "firstname": "Sharon",
+                    "middlename": null,
+                    "lastname": "LaFraniere",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 1
+                },
                 {
                     "firstname": "Benjamin",
                     "middlename": null,
@@ -207,29 +259,27 @@
                     "title": null,
                     "role": "reported",
                     "organization": "",
-                    "rank": 1
+                    "rank": 2
                 }
             ],
             "organization": null
         },
         "type_of_material": "News",
-        "_id": "nyt://article/cf38d843-3ace-59f5-b838-885b39a914b0",
-        "word_count": 1715,
-        "uri": "nyt://article/cf38d843-3ace-59f5-b838-885b39a914b0"
+        "_id": "nyt://article/2ccd9a09-577f-5494-8af4-d2721840a757",
+        "word_count": 1412,
+        "uri": "nyt://article/2ccd9a09-577f-5494-8af4-d2721840a757"
     },
     {
-        "abstract": "The shots may help vulnerable Americans dodge serious illness or death. But some experts believe boosters must be improved and are calling for a new strategy.",
-        "web_url": "https://www.nytimes.com/2022/11/18/health/covid-boosters-surge.html",
-        "snippet": "The shots may help vulnerable Americans dodge serious illness or death. But some experts believe boosters must be improved and are calling for a new strategy.",
-        "lead_paragraph": "As winter looms and Americans increasingly gather indoors without masks or social distancing, a medley of new coronavirus variants is seeding a rise in cases and hospitalizations in counties across the nation.",
-        "print_section": "A",
-        "print_page": "1",
+        "abstract": "The Biden administration has pushed social media giants like Facebook to curb Covid misinformation. But it is thriving on fringe platforms like Gab, a hub for extremist content.",
+        "web_url": "https://www.nytimes.com/2022/11/22/us/politics/covid-misinformation-gab.html",
+        "snippet": "The Biden administration has pushed social media giants like Facebook to curb Covid misinformation. But it is thriving on fringe platforms like Gab, a hub for extremist content.",
+        "lead_paragraph": "WASHINGTON \u2014 Not long after Randy Watt died of Covid-19, his daughter Danielle sat down at her computer, searching for clues as to why the smart and thoughtful man she knew had refused to get vaccinated. She pulled up Google, typed in a screen name he had used in the past and discovered a secret that stunned her.",
         "source": "The New York Times",
         "headline": {
-            "main": "Will Covid Boosters Prevent Another Wave? Scientists Aren\u2019t So Sure.",
+            "main": "A Lasting Legacy of Covid: Far-Right Platforms Spreading Health Myths",
             "kicker": null,
             "content_kicker": null,
-            "print_headline": "Scientists Warn A Booster Policy Needs Updating",
+            "print_headline": null,
             "name": null,
             "seo": null,
             "sub": null
@@ -239,216 +289,111 @@
                 "name": "subject",
                 "value": "Coronavirus (2019-nCoV)",
                 "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Rumors and Misinformation",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Gab AI Inc",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Social Media",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Right-Wing Extremism and Alt-Right",
+                "rank": 5,
                 "major": "N"
             },
             {
                 "name": "subject",
                 "value": "Vaccination and Immunization",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coronavirus Omicron Variant",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Disease Rates",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Antibodies",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Immune System",
                 "rank": 6,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Research",
+                "value": "Deaths (Fatalities)",
                 "rank": 7,
                 "major": "N"
             },
             {
-                "name": "organizations",
-                "value": "BioNTech SE",
+                "name": "subject",
+                "value": "Freedom of Speech and Expression",
                 "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Pfizer Inc",
-                "rank": 9,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Moderna Inc",
-                "rank": 10,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Novavax Inc",
-                "rank": 11,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "your-feed-science",
-                "rank": 12,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2022-11-18T10:00:43+0000",
-        "document_type": "article",
-        "news_desk": "Science",
-        "section_name": "Health",
-        "byline": {
-            "original": "By Apoorva Mandavilli",
-            "person": [
-                {
-                    "firstname": "Apoorva",
-                    "middlename": null,
-                    "lastname": "Mandavilli",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 1
-                }
-            ],
-            "organization": null
-        },
-        "type_of_material": "News",
-        "_id": "nyt://article/933cd35e-7408-5afc-99cf-c5e55946c013",
-        "word_count": 1483,
-        "uri": "nyt://article/933cd35e-7408-5afc-99cf-c5e55946c013"
-    },
-    {
-        "abstract": "Debate intensified over a contentious issue: the creation of a fund to help poor and vulnerable countries pay for loss and damage caused by climate change.",
-        "web_url": "https://www.nytimes.com/2022/11/18/climate/un-climate-talks-cop27.html",
-        "snippet": "Debate intensified over a contentious issue: the creation of a fund to help poor and vulnerable countries pay for loss and damage caused by climate change.",
-        "lead_paragraph": "SHARM EL SHEIKH, Egypt \u2014 John Kerry, the United States special envoy for climate change, has tested positive for Covid-19, a State Department spokeswoman said, a development that will sideline him at a crucial moment in the waning hours of negotiations at United Nations climate talks.",
-        "print_section": "A",
-        "print_page": "5",
-        "source": "The New York Times",
-        "headline": {
-            "main": "John Kerry Tests Positive for Covid at U.N. Climate Talks, Complicating Final Hours",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Kerry\u2019s Covid Diagnosis Muddles Climate Talks",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "United Nations Framework Convention on Climate Change",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Global Warming",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Greenhouse Gas Emissions",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Compensation for Damages (Law)",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Third World and Developing Countries",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "United Nations",
-                "rank": 6,
                 "major": "N"
             },
             {
                 "name": "persons",
-                "value": "Kerry, John",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "United States International Relations",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
+                "value": "Torba, Andrew",
                 "rank": 9,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Ivermectin (Drug)",
+                "rank": 10,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Grief (Emotion)",
+                "rank": 11,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Biden, Joseph R Jr",
+                "rank": 12,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "United States Politics and Government",
+                "rank": 13,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Suits and Litigation (Civil)",
+                "rank": 14,
                 "major": "N"
             }
         ],
-        "pub_date": "2022-11-18T17:43:28+0000",
+        "pub_date": "2022-11-22T22:13:58+0000",
         "document_type": "article",
-        "news_desk": "Climate",
-        "section_name": "Climate",
+        "news_desk": "Washington",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
         "byline": {
-            "original": "By Max Bearak, Brad Plumer and Lisa Friedman",
+            "original": "By Sheryl Gay Stolberg",
             "person": [
                 {
-                    "firstname": "Max",
-                    "middlename": null,
-                    "lastname": "Bearak",
+                    "firstname": "Sheryl",
+                    "middlename": "Gay",
+                    "lastname": "Stolberg",
                     "qualifier": null,
                     "title": null,
                     "role": "reported",
                     "organization": "",
                     "rank": 1
-                },
-                {
-                    "firstname": "Brad",
-                    "middlename": null,
-                    "lastname": "Plumer",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 2
-                },
-                {
-                    "firstname": "Lisa",
-                    "middlename": null,
-                    "lastname": "Friedman",
-                    "qualifier": null,
-                    "title": null,
-                    "role": "reported",
-                    "organization": "",
-                    "rank": 3
                 }
             ],
             "organization": null
         },
         "type_of_material": "News",
-        "_id": "nyt://article/78ff1cd2-98f5-5f78-824a-bfabafb5b971",
-        "word_count": 1637,
-        "uri": "nyt://article/78ff1cd2-98f5-5f78-824a-bfabafb5b971"
+        "_id": "nyt://article/b91f28b3-1534-5cb2-a25f-9989952186e1",
+        "word_count": 2195,
+        "uri": "nyt://article/b91f28b3-1534-5cb2-a25f-9989952186e1"
     }
 ]

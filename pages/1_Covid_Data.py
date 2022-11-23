@@ -1,15 +1,13 @@
+import os
 from urllib.error import URLError
 import pandas as pd
 import streamlit as st
 import pydeck as pdk
 from dotenv import load_dotenv
-import os
 from sqlalchemy import create_engine
 import plotly.express as px
+import plotly.io as pio
 
-
-
-# Connexion à notre base de données
 load_dotenv()
 
 DBHOST = os.getenv("DBHOST")
@@ -17,14 +15,23 @@ DBUSER = os.getenv("DBUSER")
 DBPASS = os.getenv("DBPASS")
 DBNAME = os.getenv("DBNAME")
 
+pio.templates.default = "plotly_dark"
+
+st.set_page_config(
+    page_title="NYT Project",
+    page_icon="📰",
+)
+
+# Connexion à notre base de données
 engine = create_engine(f"postgresql+psycopg2://{DBUSER}:{DBPASS}@{DBHOST}/{DBNAME}", echo=False)
 
 #On fait une jointure sur les tables pour associer les données de localisation géographiques aux données covid
 df_covid_states=pd.read_sql('SELECT date,cases, deaths, latitude, longitude, name, geo_states.state FROM covid_states INNER JOIN geo_states ON covid_states.state=geo_states.name ORDER BY date', engine).tail(52)
 #print(df_covid_states)
 
-df_covid_counties=pd.read_sql('SELECT date, cases, deaths,lat, lng, name FROM covid_counties INNER JOIN geo_counties ON covid_counties.fips=geo_counties.fips_code ORDER BY date', engine).tail(3215)
+df_covid_counties=pd.read_sql('SELECT date, cases, deaths, lat, lng, name FROM covid_counties INNER JOIN geo_counties ON covid_counties.fips=geo_counties.fips_code ORDER BY date', engine).tail(3215)
 df_covid_counties.dropna(inplace=True)
+df_covid_us = pd.read_sql('covid_us', engine)
 #print(df_covid_counties)
 
 # On crée les containers streamlit
@@ -34,13 +41,19 @@ counties_data = st.container()
 cumulative = st.container()
 
 with header:
-    st.title('Visualisation du dataset Covid')
+    st.title('Covid Dataset Visualization')
 
     st.markdown(
-        'On peut observer ici la distribution des cas positifs et du nombre de morts dûs au covid par états et par cantons.'
-        ' Les graphes correspondent aux données live et peuvent être mises à jour à chaque exécution')
+        """
+        We can observe here the distribution of positive cases and the number of deaths due to covid by states and by counties.
+
+        The graphs use live data and can be updated each time the code is executed.
+        """
+        )
 
 with states_data:
+    st.subheader(
+        'Geographical Distribution of Cases and Deaths in the USA.')
     try:
         ALL_LAYERS = {
             "Covid Deaths per states": pdk.Layer(
@@ -93,7 +106,7 @@ with states_data:
             % e.reason
         )
     st.markdown(
-            'A noter que l\'échelle des cas positifs est 50 fois plus petite que l\'échelle du nombre de morts.')
+            'Please note that the scale of the cases count is 50 times higher than the scale of the deaths count.')
 
 with counties_data:
     try:
@@ -145,18 +158,41 @@ with counties_data:
             """
             **This demo requires internet access.**
             Connection error: %s
-        """
+            """
             % e.reason
         )
 
+
 with cumulative:
     st.subheader(
-        'Représentation du nombre de cas positifs et de morts cumulés')
+        'Culumative Number of Cases and Deaths in the USA.')
 
     df_covid_us = pd.read_sql('covid_us', engine)
 
-    fig1 = px.bar(df_covid_us,x='date', y='cases')
-    barplot_chart = st.write(fig1)
+    fig1 = px.area(df_covid_us,
+                  x='date',
+                  y='cases',
+                  title='Cumulative USA Cases Count',
+                  color_discrete_sequence=['lightgreen'],
+                  labels={'date': 'Date', 'cases': 'Cases'}
+                  )
+    fig1.update_layout(width=785,
+                       height=550,
+                       xaxis_title_font_size=18,
+                       yaxis_title_font_size=18,
+                       title_font_size=20)
+    area_chart = st.plotly_chart(fig1)
 
-    fig2 = px.bar(df_covid_us, x='date', y='deaths')
-    barplot_chart = st.write(fig2)
+    fig2 = px.area(df_covid_us,
+                   x='date',
+                   y='deaths',
+                   title='Cumulative USA Deaths Count',
+                   color_discrete_sequence=['darkred'],
+                   labels={'date': 'Date', 'deaths': 'Deaths'}
+                   )
+    fig2.update_layout(width=785,
+                       height=550,
+                       xaxis_title_font_size=18,
+                       yaxis_title_font_size=18,
+                       title_font_size=20)
+    area_chart = st.plotly_chart(fig2)
