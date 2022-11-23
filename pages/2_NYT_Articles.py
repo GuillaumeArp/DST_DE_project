@@ -1,15 +1,9 @@
 import os
-import time
-import datetime
-import json
-import requests
 import pandas as pd
 from dotenv import load_dotenv
-import pymongo
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 import plotly.express as px
-import plotly.graph_objects as go
 import plotly.io as pio
 import streamlit as st
 
@@ -63,7 +57,11 @@ def plot_articles():
               color_discrete_sequence=['orange'],
               labels={'pub_date': 'Date', 'count': 'Number of Articles'})
 
-    fig.update_layout(width=785, height=550, xaxis_title_font_size=18, yaxis_title_font_size=18, title_font_size=20)
+    fig.update_layout(width=785,
+                      height=550,
+                      xaxis_title_font_size=18,
+                      yaxis_title_font_size=18,
+                      title_font_size=20)
 
     return fig
 
@@ -83,7 +81,11 @@ def plot_categories():
                 orientation='h',
                 labels={'news_desk': 'News Desk', 'count': 'Number of Articles'})
 
-    fig.update_layout(width=785, height=550)
+    fig.update_layout(width=785,
+                      height=550,
+                      xaxis_title_font_size=18,
+                      yaxis_title_font_size=18,
+                      title_font_size=20)
 
     return fig
 
@@ -102,3 +104,9 @@ st.markdown(
 )
 
 st.plotly_chart(plot_categories())
+
+st.markdown(
+    """
+    The news desk that published the most articles is by far the Foreigh desk, most probably because of the early days where most news came from China and Europe.
+    """
+)
