@@ -22,8 +22,10 @@ client = MongoClient(f"mongodb+srv://{USERNAME}:{USERPWD}@nyt-de.ganwi.mongodb.n
 db = client.nyt
 col = db['articles']
 
+today = pd.to_datetime('today').date()
+
 @st.experimental_memo
-def get_articles():
+def get_articles(day):
     """Pulls the articles from the MongoDB database and returns a pandas dataframe.
 
     Returns:
@@ -36,9 +38,10 @@ def get_articles():
     df_results = df_results[df_results['pub_date'] != '2021-01-27T17:00:00+0000']
     df_results['pub_date'] = pd.to_datetime(df_results['pub_date']).dt.date
     df_results['count'] = 1
+    print(f"Articles pulled from MongoDB: {len(df_results)} - {day}")
     return df_results
 
-df = get_articles()
+df = get_articles(today)
 
 df_grouped = df.groupby('pub_date').sum(numeric_only=True).reset_index()
 df_category = df.groupby('news_desk').sum(numeric_only=True).reset_index()
