@@ -1,0 +1,239 @@
+[
+    {
+        "abstract": "In videos verified by The New York Times, protesters in the southern city of Guangzhou confronted police officers in helmets and white protective clothing this week.",
+        "web_url": "https://www.nytimes.com/video/world/asia/100000008663146/guangzhou-china-protest-covid.html",
+        "snippet": "In videos verified by The New York Times, protesters in the southern city of Guangzhou confronted police officers in helmets and white protective clothing this week.",
+        "lead_paragraph": "In videos verified by The New York Times, protesters in the southern city of Guangzhou confronted police officers in helmets and white protective clothing this week.",
+        "source": "The New York Times",
+        "headline": {
+            "main": "Protesters Clash With Police Over Covid Lockdown in China",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": null,
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Demonstrations, Protests and Riots",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Coronavirus (2019-nCoV)",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Guangzhou (China)",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "China",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Police",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "New York Times",
+                "rank": 6,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2022-11-30T05:24:19+0000",
+        "document_type": "multimedia",
+        "news_desk": "",
+        "section_name": "World",
+        "subsection_name": "Asia Pacific",
+        "byline": {
+            "original": "By Muyi Xiao and Amy Chang Chien",
+            "person": [
+                {
+                    "firstname": "Muyi",
+                    "middlename": null,
+                    "lastname": "Xiao",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 1
+                },
+                {
+                    "firstname": "Amy",
+                    "middlename": "Chang",
+                    "lastname": "Chien",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 2
+                }
+            ],
+            "organization": null
+        },
+        "type_of_material": "Video",
+        "_id": "nyt://video/ccad90d2-a375-5927-905f-099f4e8025b7",
+        "word_count": 0,
+        "uri": "nyt://video/ccad90d2-a375-5927-905f-099f4e8025b7"
+    },
+    {
+        "abstract": "They include New York City Police Department workers and a jail official. The phony loans added up to more than $1.5 million, prosecutors said.",
+        "web_url": "https://www.nytimes.com/2022/11/30/nyregion/covid-relief-loans-fraud.html",
+        "snippet": "They include New York City Police Department workers and a jail official. The phony loans added up to more than $1.5 million, prosecutors said.",
+        "lead_paragraph": "A New York City correction official, eight Police Department employees and eight other current and former city and state workers schemed to defraud Covid relief programs that were intended to provide money to struggling business owners, the authorities said on Wednesday.",
+        "print_section": "A",
+        "print_page": "19",
+        "source": "The New York Times",
+        "headline": {
+            "main": "17 Public Employees Charged in Schemes to Steal Covid Relief Funds",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "17 Public Workers Are Charged With Stealing Covid Funds",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Coronavirus (2019-nCoV)",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Embezzlement",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Government Employees",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "New York City",
+                "rank": 4,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2022-11-30T18:58:46+0000",
+        "document_type": "article",
+        "news_desk": "Metro",
+        "section_name": "New York",
+        "byline": {
+            "original": "By Benjamin Weiser, Chelsia Rose Marcius and Jan Ransom",
+            "person": [
+                {
+                    "firstname": "Benjamin",
+                    "middlename": null,
+                    "lastname": "Weiser",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 1
+                },
+                {
+                    "firstname": "Chelsia",
+                    "middlename": "Rose",
+                    "lastname": "Marcius",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 2
+                },
+                {
+                    "firstname": "Jan",
+                    "middlename": null,
+                    "lastname": "Ransom",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 3
+                }
+            ],
+            "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/81963f24-d48d-508c-afd4-09d198f825b2",
+        "word_count": 822,
+        "uri": "nyt://article/81963f24-d48d-508c-afd4-09d198f825b2"
+    },
+    {
+        "abstract": "Plus Twitter announced that it\u2019s no longer enforcing its policy on Covid misinformation.",
+        "web_url": "https://www.nytimes.com/2022/11/30/briefing/chinas-covid-revolt.html",
+        "snippet": "Plus Twitter announced that it\u2019s no longer enforcing its policy on Covid misinformation.",
+        "lead_paragraph": "The broadest and boldest surge of protests in a generation is sweeping China, as people in cities across the country take to the streets to denounce the government\u2019s inflexible and exhausting Covid measures.",
+        "source": "The New York Times",
+        "headline": {
+            "main": "China\u2019s Covid revolt",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": null,
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Coronavirus (2019-nCoV)",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "China",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Demonstrations, Protests and Riots",
+                "rank": 3,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2022-11-30T21:20:18+0000",
+        "document_type": "article",
+        "news_desk": "NYTNow",
+        "section_name": "Briefing",
+        "byline": {
+            "original": "By Jonathan Wolfe",
+            "person": [
+                {
+                    "firstname": "Jonathan",
+                    "middlename": null,
+                    "lastname": "Wolfe",
+                    "qualifier": null,
+                    "title": null,
+                    "role": "reported",
+                    "organization": "",
+                    "rank": 1
+                }
+            ],
+            "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/88565307-0cef-5c72-bad7-2a54ecaca56d",
+        "word_count": 1308,
+        "uri": "nyt://article/88565307-0cef-5c72-bad7-2a54ecaca56d"
+    }
+]
