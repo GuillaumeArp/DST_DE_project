@@ -1,0 +1,127 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "string"
+        },
+        "abstract": {
+            "bsonType": "string"
+        },
+        "byline": {
+            "bsonType": "object",
+            "properties": {
+                "organization": {
+                    "bsonType": "string"
+                },
+                "original": {
+                    "bsonType": "string"
+                },
+                "person": {
+                    "bsonType": "array",
+                    "items": {
+                        "bsonType": "object",
+                        "properties": {
+                            "firstname": {
+                                "bsonType": "string"
+                            },
+                            "lastname": {
+                                "bsonType": "string"
+                            },
+                            "middlename": {
+                                "bsonType": "string"
+                            },
+                            "organization": {
+                                "bsonType": "string"
+                            },
+                            "qualifier": {
+                                "bsonType": "string"
+                            },
+                            "rank": {
+                                "bsonType": "int"
+                            },
+                            "role": {
+                                "bsonType": "string"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "document_type": {
+            "bsonType": "string"
+        },
+        "headline": {
+            "bsonType": "object",
+            "properties": {
+                "kicker": {
+                    "bsonType": "string"
+                },
+                "main": {
+                    "bsonType": "string"
+                },
+                "print_headline": {
+                    "bsonType": "string"
+                }
+            }
+        },
+        "keywords": {
+            "bsonType": "array",
+            "items": {
+                "bsonType": "object",
+                "properties": {
+                    "major": {
+                        "bsonType": "string"
+                    },
+                    "name": {
+                        "bsonType": "string"
+                    },
+                    "rank": {
+                        "bsonType": "int"
+                    },
+                    "value": {
+                        "bsonType": "string"
+                    }
+                }
+            }
+        },
+        "lead_paragraph": {
+            "bsonType": "string"
+        },
+        "news_desk": {
+            "bsonType": "string"
+        },
+        "print_page": {
+            "bsonType": "string"
+        },
+        "print_section": {
+            "bsonType": "string"
+        },
+        "pub_date": {
+            "bsonType": "string"
+        },
+        "section_name": {
+            "bsonType": "string"
+        },
+        "snippet": {
+            "bsonType": "string"
+        },
+        "source": {
+            "bsonType": "string"
+        },
+        "subsection_name": {
+            "bsonType": "string"
+        },
+        "type_of_material": {
+            "bsonType": "string"
+        },
+        "uri": {
+            "bsonType": "string"
+        },
+        "web_url": {
+            "bsonType": "string"
+        },
+        "word_count": {
+            "bsonType": "int"
+        }
+    },
+    "title": "article"
+}
